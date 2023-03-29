@@ -1,4 +1,7 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
+# Docker: Utilização prática no cenário de Microsserviços
+## O que é Docker?
+O Docker é uma plataforma de containerização de código aberto que permite empacotar aplicativos e suas dependências em contêineres portáteis e leves. Com isso, é possível executar os aplicativos de maneira consistente em diferentes ambientes, sem a necessidade de fazer alterações no código ou na configuração.
 
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+Os contêineres do Docker isolam os aplicativos uns dos outros e da infraestrutura subjacente, tornando-os fáceis de gerenciar e implantar. Além disso, o Docker oferece um vasto ecossistema de ferramentas e serviços para ajudar os desenvolvedores a automatizar e simplificar o processo de containerização.
+
+Em resumo, o Docker é uma plataforma de virtualização que permite a criação de ambientes isolados e portáteis para executar aplicativos, o que traz benefícios em termos de agilidade e escalabilidade para o desenvolvimento e implantação de software.
